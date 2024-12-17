@@ -37,7 +37,7 @@ npm install --save-dev typescript @types/express ts-node
 ```
 3. Install TypeScript and Type Definitions (dev dependencies):
 ```bash
-Install TypeScript and Type Definitions (dev dependencies):
+npm install --save-dev typescript @types/express ts-node
 ```
 4. Compile TypeScript and run the application:
 ```bash
